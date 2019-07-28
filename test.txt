@@ -1,0 +1,2 @@
+. When amines are dissolved in water , they form protonated amines. Also, the number of possibilities of hydrogen bonding also increases. More is the number of hydrogen bonding, more is the hydration that is released in the process of the formation of hydrogen bonds. When dissolved in water , primary amines show the greatest number of hydrogen bonds , thus being most stable while tertiary amines shows least number of hydrogen bonds, thus being least stable. Hence, order of basicity becomes :  Primary Amines <  Secondary Amines <  Tertiary Amines.
+
